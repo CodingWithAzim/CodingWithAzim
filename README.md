@@ -23,7 +23,7 @@
 
 Most of my repositories are part of my ongoing software development learning journey. I use GitHub to practice, experiment, document progress, and build projects from ideas into working applications.
 
-👉 Explore my repositories: [github.com/CodingWithAzim](https://github.com/CodingWithAzim)
+👉 Explore my repositories: [[github.com/CodingWithAzim](https://github.com/CodingWithAzim](https://github.com/CodingWithAzim?tab=repositories))
 
 ## Current Focus
 
